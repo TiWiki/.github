@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="/tiwiki-logo.png" alt="TiWiki Logo - Soluções em Tecnologia e Desenvolvimento" width="200"/>
+  <img src="tiwiki-logo.png" alt="TiWiki Logo - Soluções em Tecnologia e Desenvolvimento" width="200"/>
   
   [![Website](https://img.shields.io/badge/Website-tiwiki.com.br-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tiwiki.com.br)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-TiWiki-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/tiwiki)
